@@ -8,7 +8,6 @@ If a target_spread_closure of 0.001 closes 80% of trades within 30 days and gene
 but a 0.005 target achieves closure 90% of the time with slightly higher profits and shorter holding periods, 
 the latter would likely be a better choice.
 
-2. 
 
 
 """
